@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="l2x6.pom.tuner" type="repository">
+    <properties maven-id="org.l2x6.pom-tuner:pom-tuner:4.2.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/l2x6/pom-tuner/pom-tuner/4.2.0/pom-tuner-4.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/pom-tuner-4.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
